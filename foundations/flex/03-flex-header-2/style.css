@@ -8,6 +8,10 @@ body {
   font-family: Besley, serif;
 }
 
+.flexbox {
+  display: flex;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -74,4 +78,8 @@ ul {
   display: flex;
   align-items: center;
   gap: 16px;
+}
+
+.text {
+  display: flex;
 }
