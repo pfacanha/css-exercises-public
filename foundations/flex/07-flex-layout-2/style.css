@@ -50,6 +50,10 @@ a {
   padding: 16px;
 }
 
+.content {
+  display: flex;
+  flex: 1;
+}
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
@@ -58,10 +62,6 @@ a {
   width: 300px;
 }
 
-.content {
-  display: flex;
-  flex: 1;
-}
 
 .card-section {
   display: flex;
